@@ -2,7 +2,6 @@
 Reflective DLL injector written in C++ that utilizes SysWhispers3 for direct syscalls. Still need to add more evasion and anti-sandboxing measures to bring detections down further.
 
 <br>
-<br>
 
 Currently down to 4 detections on VirusTotal.
 <img width="1484" height="1100" alt="virus-total-dll-loader" src="https://github.com/user-attachments/assets/e5abccf1-14b7-48a4-a510-dfed380f25a5" />
