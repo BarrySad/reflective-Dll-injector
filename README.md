@@ -1,5 +1,5 @@
-# reflective-Dll-injector
-Reflective DLL injector written in C++ that utilizes SysWhispers3 for direct syscalls. Still need to add more evasion and anti-sandboxing measures to bring detections down further.
+# Reflective dll injector
+Reflective dll injector written in C++ that utilizes SysWhispers3 for direct syscalls. Still need to add more evasion and anti-sandboxing measures to bring detections down further.
 
 <br>
 
